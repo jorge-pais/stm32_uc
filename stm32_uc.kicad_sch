@@ -1143,7 +1143,7 @@
   (symbol (lib_id "MCU_ST_STM32F1:STM32F103C8Tx") (at 139.7 100.33 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 780076de-fb73-43f2-b5aa-1c95059ff25d)
-    (property "Reference" "U1" (id 0) (at 149.86 63.5 0)
+    (property "Reference" "U?" (id 0) (at 149.86 63.5 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "STM32F103C8T6" (id 1) (at 143.51 137.16 0)
@@ -1471,7 +1471,7 @@
       (reference "SW?") (unit 1) (value "SW_SPDT") (footprint "")
     )
     (path "/780076de-fb73-43f2-b5aa-1c95059ff25d"
-      (reference "U1") (unit 1) (value "STM32F103C8T6") (footprint "Package_QFP:LQFP-48_7x7mm_P0.5mm")
+      (reference "U?") (unit 1) (value "STM32F103C8T6") (footprint "Package_QFP:LQFP-48_7x7mm_P0.5mm")
     )
   )
 )
