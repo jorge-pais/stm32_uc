@@ -3693,7 +3693,7 @@
     (uuid aa7aec69-26d5-49c4-aa8f-2811432a1bd2)
     (property "Reference" "SW1" (id 0) (at 116.84 167.64 0))
     (property "Value" "SW_SPDT" (id 1) (at 115.57 175.26 0))
-    (property "Footprint" "Button_Switch_THT:SW_E-Switch_EG1224_SPDT_Angled" (id 2) (at 114.3 170.18 0)
+    (property "Footprint" "Button_Switch_SMD:SW_SPDT_PCM12" (id 2) (at 114.3 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 114.3 170.18 0)
@@ -4197,7 +4197,7 @@
       (reference "R5") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/aa7aec69-26d5-49c4-aa8f-2811432a1bd2"
-      (reference "SW1") (unit 1) (value "SW_SPDT") (footprint "Button_Switch_THT:SW_E-Switch_EG1224_SPDT_Angled")
+      (reference "SW1") (unit 1) (value "SW_SPDT") (footprint "Button_Switch_SMD:SW_SPDT_PCM12")
     )
     (path "/36fe1a76-d2e1-4616-ae7c-c8bcfa6a8eec"
       (reference "U1") (unit 1) (value "AMS1117-3.3") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
