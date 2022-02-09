@@ -63,7 +63,7 @@
       36
     ],
     "visible_layers": "f80ffff_ffffffff",
-    "zone_display_mode": 1
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "stm32_uc.kicad_prl",
