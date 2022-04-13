@@ -1,2 +1,2 @@
 # stm32_uc
-Simple microcontroller board builkt around a STM32F103
+Simple microcontroller board built around a STM32F103
